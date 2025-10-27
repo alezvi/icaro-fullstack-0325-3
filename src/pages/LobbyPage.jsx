@@ -10,7 +10,7 @@ export default function LobbyPage()
         <div className="container">
             <div className="row">
                 <div className="col">
-                    <h1>Lobby</h1>
+                    <h1>Bienvenido al juego!</h1>
 
                     <Link className="btn btn-success" to="/board">Entrar</Link>
                     <Link to="/rules">Reglamento</Link>
